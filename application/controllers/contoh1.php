@@ -7,5 +7,6 @@ class Contoh1 extends CI_Controller
         echo "Nama saya Dhea Ariskha
         saya tinggal di Tambun
         Hobi saya badminton";
+        //contoh1.php//
     }
 }
