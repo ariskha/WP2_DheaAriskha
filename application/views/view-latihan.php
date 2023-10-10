@@ -1,6 +1,6 @@
 <html>
 
-<head>
+<head> //view-latihan.php//
  <title>Latihan 1</title>
 
  </head>
